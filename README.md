@@ -9,9 +9,7 @@ You can get message everywhere.
 ```shell
 curl -X POST -H 'Authorization: Bearer ここにLINEから発行されるトークンを入れます' -F 'message=メッセージ内容を入れます' https://notify-api.line.me/api/notify
 ```
-
-3. You need to change message.
-4. Excute program by `sh LINE_notification.sh` on command line
+3. Excute program by `sh LINE_notification.sh` on command line
 
 
 
