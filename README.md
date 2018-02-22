@@ -1,6 +1,8 @@
 # LINE-s_notification
 To get notification from LINE.
 
+You can get message everywhere.
+
 # Usage
 1. Create your token here https://engineering.linecorp.com/ja/blog/detail/88
 2. Write your token on the designated point.
